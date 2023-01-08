@@ -15,4 +15,5 @@
           3. INT 4~7을 누를 때에 각각에 해당하는 숫자를 입력(INT4 : 1 , INT 5 : 2 , INT 6: 3 ,   
             INT 7 : 4)
             
-         ![IMG_6431_2_MOV_AdobeExpress](https://user-images.githubusercontent.com/108858620/211215316-6b1bf64e-6701-4282-8a89-89c741794893.gif)
+
+![IMG_6431_2_MOV_AdobeExpress](https://user-images.githubusercontent.com/108858620/211215381-9eb44abe-3af1-44ed-a730-07de9135c5c4.gif)
